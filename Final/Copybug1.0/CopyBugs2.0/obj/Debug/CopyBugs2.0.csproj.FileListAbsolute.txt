@@ -1,0 +1,125 @@
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\CopyBugs2.0.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\CopyBugs2.0.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\obj\Debug\CopyBugs2.0.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Copybugs2.0\CopyBugs2.0\CopyBugs2.0\obj\Debug\CopyBugs2.0.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\CopyBugs2.0.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\CopyBugs2.0.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\obj\Debug\CopyBugs2.0.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\Copybugs2.0\BV_CB_virsion_1.0\CopyBugs2.0\obj\Debug\CopyBugs2.0.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\CopyBugs2.0.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\CopyBugs2.0.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Licensing.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DateTime.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.HtmlParser.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Ionic.Utils.Zip.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\SourceSafe.Interop.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Search.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DiffPatch.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Ferret.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.AppDomainTools.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Interop.ADOX.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Interop.ADODB.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Mail.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Util.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\HtmlAgilityPack.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Irony.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogBugz.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogBugz.xml
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Database.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Plugins.xml
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Utilities.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Runtime.xml
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Licensing.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DateTime.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.HtmlParser.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Ionic.Utils.Zip.xml
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Search.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.DiffPatch.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.Ferret.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Mail.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\bin\Debug\Wasabi.Util.pdb
+D:\BV_CB_virsion_1.0\CopyBugs2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\BV_CB_virsion_1.0\CopyBugs2.0\obj\Debug\CopyBugs2.0.dll
+D:\BV_CB_virsion_1.0\CopyBugs2.0\obj\Debug\CopyBugs2.0.pdb

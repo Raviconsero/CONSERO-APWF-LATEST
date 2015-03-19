@@ -1,0 +1,301 @@
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\ForDirect\Ford Direct Local\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\SourceSafe.Interop.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Interop.ADOX.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Interop.ADODB.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\HtmlAgilityPack.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Irony.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.xml
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.xml
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.xml
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.pdb
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\obj\Release\ResolveAssemblyReference.cache
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\CGSInvoiceDetails_MLA\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogBugz.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\SourceSafe.Interop.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Interop.ADOX.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Interop.ADODB.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\HtmlAgilityPack.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Irony.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogBugz.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogBugz.xml
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.xml
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.xml
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.pdb
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\obj\Release\ResolveAssemblyReference.cache
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\CGSInvoiceDetails_MLA\backup.04.06.12\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogBugz.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\SourceSafe.Interop.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Interop.ADOX.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Interop.ADODB.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\HtmlAgilityPack.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Irony.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogBugz.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogBugz.xml
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.xml
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.xml
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.pdb
+D:\MLA\RCB\CGSInvoiceDetails_MLA\obj\Release\ResolveAssemblyReference.cache
+D:\MLA\RCB\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\RCB\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogBugz.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\SourceSafe.Interop.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Interop.ADOX.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Interop.ADODB.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\HtmlAgilityPack.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Irony.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogBugz.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogBugz.xml
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.xml
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.xml
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Newtonsoft.Json.Net20.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.pdb
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\obj\Release\ResolveAssemblyReference.cache
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.dll
+D:\MLA\BV_MLA_INLIVE\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\SourceSafe.Interop.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Interop.ADOX.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Interop.ADODB.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\HtmlAgilityPack.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Irony.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogBugz.xml
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.xml
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.xml
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.dll
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.pdb
+D:\INLIVE\MLA\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.xml
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.csprojResolveAssemblyReference.cache
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\CGSInvoiceDetails_MLA.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\SourceSafe.Interop.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Interop.ADOX.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Interop.ADODB.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\HtmlAgilityPack.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Irony.dll
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogBugz.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogBugz.xml
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Database.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Plugins.xml
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Runtime.xml
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Licensing.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DateTime.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.HtmlParser.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Ionic.Utils.Zip.xml
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Search.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.DiffPatch.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Ferret.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.Utilities.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\FogCreek.AppDomainTools.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Mail.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\bin\Release\Wasabi.Util.pdb
+D:\INLIVE\MLA\12.21.13.backup\CGSInvoiceDetails_MLA\obj\Release\CGSInvoiceDetails_MLA.pdb

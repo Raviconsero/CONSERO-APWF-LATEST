@@ -1,0 +1,87 @@
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\CGSAddNew.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\CGSAddNew.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\obj\Debug\CGSAddNew.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSAddNew\CGSAddNew\CGSAddNew\obj\Debug\CGSAddNew.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\CGSAddNew.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\CGSAddNew.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogBugz.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Database.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Plugins.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Wasabi.Runtime.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Licensing.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.DateTime.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.HtmlParser.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Ionic.Utils.Zip.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\SourceSafe.Interop.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Search.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.DiffPatch.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Ferret.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Utilities.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.AppDomainTools.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Interop.ADOX.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Interop.ADODB.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Wasabi.Mail.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Wasabi.Util.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\HtmlAgilityPack.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Irony.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogBugz.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogBugz.xml
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Database.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Plugins.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Plugins.xml
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Wasabi.Runtime.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Licensing.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.DateTime.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.HtmlParser.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Ionic.Utils.Zip.xml
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Search.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.DiffPatch.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Ferret.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.Utilities.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Newtonsoft.Json.Net20.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Wasabi.Mail.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\bin\Debug\Wasabi.Util.pdb
+D:\INLIVE\onlive\onlive\CGSAddNew\obj\Debug\ResolveAssemblyReference.cache
+D:\INLIVE\onlive\onlive\CGSAddNew\obj\Debug\CGSAddNew.dll
+D:\INLIVE\onlive\onlive\CGSAddNew\obj\Debug\CGSAddNew.pdb

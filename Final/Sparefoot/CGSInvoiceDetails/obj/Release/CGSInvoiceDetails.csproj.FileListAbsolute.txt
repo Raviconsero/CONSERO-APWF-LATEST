@@ -1,0 +1,425 @@
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\CGSInvoiceDetails\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.xml
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+E:\FogBugz\Plugins for nisahant\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.xml
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+E:\FogBugz\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+D:\Ravi-consero\Fogbugz Management\FB project\Final\editoption test\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Newtonsoft.Json.Net20.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Newtonsoft.Json.Net20.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+D:\Server\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\SourceSafe.Interop.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Newtonsoft.Json.Net20.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\HtmlAgilityPack.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Irony.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogBugz.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Licensing.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DateTime.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.HtmlParser.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Ionic.Utils.Zip.xml
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Search.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.DiffPatch.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Ferret.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Utilities.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.AppDomainTools.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Newtonsoft.Json.Net20.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+C:\Users\rbabu.CONSEROGLOBAL\Desktop\edited by poornima\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+D:\Server\SpareFoot\CGSInvoiceDetails\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\CGSInvoiceDetails.pdb
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\FogCreek.Database.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Interop.ADOX.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Interop.ADODB.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Wasabi.Mail.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Wasabi.Util.dll
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\FogCreek.Database.pdb
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.pdb
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\FogCreek.Plugins.xml
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Wasabi.Runtime.pdb
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Wasabi.Mail.pdb
+D:\INLIVE\SF\CGSInvoiceDetails\bin\Release\Wasabi.Util.pdb
+D:\INLIVE\SF\CGSInvoiceDetails\obj\Release\ResolveAssemblyReference.cache
+D:\INLIVE\SF\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.dll
+D:\INLIVE\SF\CGSInvoiceDetails\obj\Release\CGSInvoiceDetails.pdb

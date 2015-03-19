@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6CCEF778-CB3A-4A83-A6E5-4DB1AA89B5C3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PostToIntacct</RootNamespace>
+    <AssemblyName>PostToIntacct</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FogBugz">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogBugz.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.AppDomainTools">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.AppDomainTools.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Database">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.DateTime">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.DateTime.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.DiffPatch">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.DiffPatch.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Ferret">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.Ferret.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.HtmlParser">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.HtmlParser.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Licensing">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Plugins">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.Plugins.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Search">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.Search.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Utilities">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\FogCreek.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ADODB">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\Interop.ADODB.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.ADOX">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\Interop.ADOX.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Ionic.Utils.Zip">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\Ionic.Utils.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Irony">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\Irony.dll</HintPath>
+    </Reference>
+    <Reference Include="SourceSafe.Interop">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\SourceSafe.Interop.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Wasabi.Mail">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\Wasabi.Mail.dll</HintPath>
+    </Reference>
+    <Reference Include="Wasabi.Runtime">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\Wasabi.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Wasabi.Util">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\Wasabi.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="WorkFlow2.0">
+      <HintPath>..\..\..\BazaarVoice\WorkFlow2.0\bin\Debug\WorkFlow2.0.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Act.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1845 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Wasabi.Runtime</name>
+    </assembly>
+    <members>
+        <member name="T:Wasabi.Runtime.AlsoExistsOnClientAttribute">
+            <summary>
+            Mark a class, method, field, or Wasabi function with this attribute to let Wasabi know that this class also exists on the client.
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.UselessAttribute">
+            <summary>
+            A useless attribute that is allowed multiple times. It's for the Wasabi unit tester. Please don't remove it!
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.CStr(System.Object)">
+            <summary>
+            String representation of any object or value
+            </summary>
+            <param name="exp">The value or object to output</param>
+            <returns>"" if Nothing, DBNull, vbInvalidDate, vbInvalidInt, or vbInvalidDouble; a string representing the object otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.CLng(System.Object)">
+            <summary>
+            Convert to Int32
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>The integer, if it was converted successfully.</returns>
+            <remarks>The value must be a number between -2147483648 and 2147483647.</remarks>
+            <exception cref="T:System.FormatException">exp does not consist of an optional sign followed by a sequence of digits.</exception>
+            <exception cref="T:System.OverflowException">exp represents a number less than MinValue or greater than MaxValue</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.CBool(System.Object)">
+            <summary>
+            Convert to Boolean
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>False if Nothing, a DateTime or 0, True otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.CDate(System.Object)">
+            <summary>
+            Convert to Date
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>The date, if exp can be converted as a date in the current local setting</returns>
+            <exception cref="T:System.FormatException">exp cannot be converted to a System.DateTime</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.CDbl(System.Object)">
+            <summary>
+            Convert to Double
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>The floating-point representation of exp</returns>
+            <exception cref="T:System.FormatException">exp cannot be converted to a Double</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.DateTimeNoMilliseconds(System.DateTime)">
+            <summary>
+            Convert DateTime to a new DateTime object with no milliseconds
+            </summary>
+            <param name="dt">The DateTime to be converted</param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.Hex(System.Object)">
+            <summary>
+            Convert to a string representing the hexadecimal integer value of exp
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>The hexadecimal representation of exp</returns>
+            <exception cref="T:System.FormatException">exp cannot be converted to an Int32</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.Oct(System.Object)">
+            <summary>
+            Convert to a string representing the octal integer value of exp
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>The octal representation of exp</returns>
+            <exception cref="T:System.FormatException">exp cannot be converted to an Int32</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.Int(System.Object)">
+            <summary>
+            Convert to Int32, rounding negative numbers down
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns></returns>
+            <exception cref="T:System.FormatException">exp cannot be converted to an Int32</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.Fix(System.Object)">
+            <summary>
+            Convert to Int32, rounding negative numbers up
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>The integer representation of exp</returns>
+            <exception cref="T:System.FormatException">exp cannot be converted to an Int32</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.CByte(System.Object)">
+            <summary>
+            Convert to Byte
+            </summary>
+            <param name="exp">The value or object to convert</param>
+            <returns>The Int32 representation of exp if it is between 0 and 255</returns>
+            <exception cref="T:System.OverflowException">The value is not between 0 and 255</exception>
+            <exception cref="T:System.FormatException">exp cannot be converted to an Int32</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.Str(System.Object)">
+            <summary>
+            Not implemented!
+            </summary>
+            <param name="exp"></param>
+            <returns><![CDATA[<no code paths return a value>]]></returns>
+            <exception cref="T:System.NotImplementedException">Always</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.UnNull(System.Object)">
+            <summary>
+            This function is for removing the OrNull union from a type.
+            In Wasabi 2, this function was only used by the compiler as
+            a way of communicating with the compiler. In Wasabi 3, this
+            function will actually error if it is passed DBNull.
+            </summary>
+            <param name="exp">Any non DBNull value</param>
+            <returns>The same value passed in</returns>
+            <exception cref="T:System.InvalidCastException">You passed in a DBNull</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Conversion.TryCatch(Wasabi.Runtime.Functional.Sub,Wasabi.Runtime.Functional.Sub{Wasabi.Runtime.Error})">
+            <summary>
+            Simple functional Try-Catch block
+            </summary>
+            <param name="fxnTry">The Sub with no parameters to execute in the Try block</param>
+            <param name="fxnCatch">The Sub with 1 parameter (Error) to execute in the Catch block</param>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional">
+            <summary>Helper delegates for Wasabi functional programming</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`1">
+            <summary>A delegate that takes 0 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`2">
+            <summary>A delegate that takes 1 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`3">
+            <summary>A delegate that takes 2 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`4">
+            <summary>A delegate that takes 3 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`5">
+            <summary>A delegate that takes 4 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`6">
+            <summary>A delegate that takes 5 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`7">
+            <summary>A delegate that takes 6 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`8">
+            <summary>A delegate that takes 7 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`9">
+            <summary>A delegate that takes 8 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`10">
+            <summary>A delegate that takes 9 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`11">
+            <summary>A delegate that takes 10 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`12">
+            <summary>A delegate that takes 11 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`13">
+            <summary>A delegate that takes 12 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`14">
+            <summary>A delegate that takes 13 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`15">
+            <summary>A delegate that takes 14 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`16">
+            <summary>A delegate that takes 15 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`17">
+            <summary>A delegate that takes 16 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`18">
+            <summary>A delegate that takes 17 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`19">
+            <summary>A delegate that takes 18 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`20">
+            <summary>A delegate that takes 19 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Function`21">
+            <summary>A delegate that takes 20 parameters and returns a TResult</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub">
+            <summary>A delegate that takes 0 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`1">
+            <summary>A delegate that takes 1 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`2">
+            <summary>A delegate that takes 2 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`3">
+            <summary>A delegate that takes 3 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`4">
+            <summary>A delegate that takes 4 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`5">
+            <summary>A delegate that takes 5 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`6">
+            <summary>A delegate that takes 6 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`7">
+            <summary>A delegate that takes 7 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`8">
+            <summary>A delegate that takes 8 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`9">
+            <summary>A delegate that takes 9 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`10">
+            <summary>A delegate that takes 10 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`11">
+            <summary>A delegate that takes 11 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`12">
+            <summary>A delegate that takes 12 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`13">
+            <summary>A delegate that takes 13 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`14">
+            <summary>A delegate that takes 14 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`15">
+            <summary>A delegate that takes 15 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`16">
+            <summary>A delegate that takes 16 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`17">
+            <summary>A delegate that takes 17 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`18">
+            <summary>A delegate that takes 18 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`19">
+            <summary>A delegate that takes 19 parameters and does not return a value</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Functional.Sub`20">
+            <summary>A delegate that takes 20 parameters and does not return a value</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.IMailClient.FetchSource(System.Int32)">
+            <summary>
+            Get a message
+            </summary>
+            <param name="num"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.IMailClient.FetchSourcePreview(System.Int32,System.Nullable{System.Int32})">
+            <summary>
+            Get just the beginning
+            </summary>
+            <param name="num"></param>
+            <param name="preview"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.IMailClient.Login">
+            <summary>
+            Login
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.IMailClient.Logout">
+            <summary>
+            Logout
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.IMailClient.Trace(System.String,System.Boolean,System.Boolean,System.String,System.String)">
+            <summary>
+            Log
+            </summary>
+            <param name="result"></param>
+            <param name="send"></param>
+            <param name="receive"></param>
+            <param name="sendPrompt"></param>
+            <param name="receivePrompt"></param>
+        </member>
+        <member name="P:Wasabi.Runtime.Mail.IMailClient.Count">
+            <summary>
+            Number unread
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Mail.IMailClient.Protocol">
+            <summary>
+            <para>The default value is Default.</para>
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Mail.IMailClient.RemoteCertificate">
+            <summary>
+            The remote cert used for an SSL connection
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Mail.IMailClient.Timeout">
+            <summary>
+            <para>The default value is 30000.</para>
+            <para>This specifies the number of miliseconds will a network operation times out.</para>
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Mail.ImapClient">
+            <summary>
+            A client for the IMAP protcol
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.ImapClient.#ctor(System.String,System.String,System.String,System.Int32,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="server"></param>
+            <param name="username"></param>
+            <param name="password"></param>
+            <param name="port"></param>
+            <param name="deleteMsgs"></param>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.ImapClient.Delete(System.Int32)">
+            <summary>
+            Delete a message
+            </summary>
+            <param name="msgid"></param>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.ImapClient.GetUidl(System.Int32)">
+            <summary>
+            Get a uid
+            </summary>
+            <param name="msgid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.ImapClient.GetNext">
+            <summary>
+            Number of next unread message
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Wasabi.Runtime.Mail.ImapClient.HasMessages">
+            <summary>
+            More messages on the server
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.MailMessage.FixRawLinesTooLong">
+            <summary>
+            Adapted from MailMergeLib 3.0.0.3 Copyright (c) 2007-2010 Norbert Bietsch
+            Project page: http://www.codeproject.com/KB/IP/MailMergeLib.aspx
+            
+            Corrects a bug in System.Net.Mail in .NET 2.0:
+            Quoted-Printable encoding is not limited to a maximum of 76 characters
+            counter to what RFC2045 demands. This results in some of the messages sent
+            from FogBugz being flagged as spam. This makes our customers sad/angry.
+            
+            This method does that correction.
+            </summary>
+            <param name="msg">MailMessage to have its raw encoded form fixed up via reflection sneakery.</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.MailMessage.GetMailFolder">
+            <summary>
+            Get temporary mail folder for FogBugz ("temp\fb_mail")
+            </summary>
+            <returns>Temporary FogBugz mail folder</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.MailMessage.GetCurrentMonthFolder">
+            <summary>
+            Get current month's temporary mail folder ("temp\fb_mail\(0|1)\")
+            </summary>
+            <returns>Temporary monthly folder</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.MailMessage.GetUniqueMessageFolder(System.String)">
+            <summary>
+            Get unique temporary message folder for current FogBugz domain
+            </summary>
+            <param name="sDomain">Current FogBugz domain</param>
+            <returns>Temporary message folder</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.MailMessage.CleanupFolders(System.String)">
+            <summary>
+            Delete provided temporary message folder as well as old monthly temporary mail folder, if necessary.
+            </summary>
+            <param name="sMessageFolder">Temporary message folder to be deleted</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.MailMessage.ReadSingleRaw(System.String)">
+            <summary>
+            Read single raw .eml message from directory provided
+            </summary>
+            <param name="sPath">Path of directory to search for single message</param>
+            <returns>String representation of raw message</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.MailMessage.Raw">
+            <summary>
+            Grab a raw string representation of the email message as it will look being sent over SMTP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Wasabi.Runtime.Mail.PopClient.Timeout">
+            <summary>
+            <para>The default value is 30000.</para>
+            <para>This specifies the number of miliseconds will a network operation times out.</para>
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Mail.PopClient.Protocol">
+            <summary>
+            <para>The default value is Default.</para>
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Dates.vbGeneralDate">
+            <summary>
+            Display a date in format mm/dd/yy. If the date parameter is Now(), it will also return the time, after the date 
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Dates.vbLongDate">
+            <summary>
+            Display a date using the long date format: weekday, month day, year 
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Dates.vbShortDate">
+            <summary>
+            Display a date using the short date format: like the default (mm/dd/yy) 
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Dates.vbLongTime">
+            <summary>
+            Display a time using the time format: hh:mm:ss PM/AM 
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Dates.vbShortTime">
+            <summary>
+            Displays a time using short time format
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.DT(System.Object)">
+            <summary>
+            Converts an object to a DateTime, unless it is already a DateTime
+            </summary>
+            <param name="date">The object to convert</param>
+            <returns>A DateTime object</returns>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Year(System.Object)">
+            <summary>
+            Get the year portion of a given DateTime
+            </summary>
+            <param name="date">The date to use</param>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+            <returns>The Gregorian year</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Month(System.Object)">
+            <summary>
+            Get the month portion of a given DateTime
+            </summary>
+            <param name="date">The date to use</param>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+            <returns>Month of the year</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Day(System.Object)">
+            <summary>Get the day of the month of a given date</summary>
+            <param name="date">The date to use</param>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+            <returns>Day of the month</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Hour(System.Object)">
+            <summary>
+            Get the hour portion of a given DateTime
+            </summary>
+            <param name="date">The date to use</param>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+            <returns>Hour of the day</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Minute(System.Object)">
+            <summary>
+            Get the minute portion of a given DateTime
+            </summary>
+            <param name="date">The date to use</param>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+            <returns>Minute of the hour</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Second(System.Object)">
+            <summary>
+            Get the seconds portion of a given DateTime
+            </summary>
+            <param name="date">The date to use</param>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+            <returns>Second of the minute</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Weekday(System.Object)">
+            <summary>
+            Get the day of the week, where vbSunday = 1, vbMonday = 2, ... vbSaturday = 7
+            </summary>
+            <param name="date">The date to use</param>
+            <exception cref="T:System.InvalidCastException">the object cannot be cast to a DateTime</exception>
+            <returns>The day of the week</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Date">
+            <summary>
+            Get the current local date
+            </summary>
+            <returns>Today's DateTime</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Now">
+            <summary>
+            Get the current local date and time
+            </summary>
+            <returns>The DateTime right now</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.UTCNow">
+            <summary>
+            Get the current date and time, in UTC
+            </summary>
+            <returns>The DateTime right now in UTC</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.DateSerial(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Create a DateTime object with the given year, month, and day
+            </summary>
+            <param name="year">The Gregorian year</param>
+            <param name="month">The month of the year</param>
+            <param name="day">The day of the month</param>
+            <returns>A DateTime with the given year, month, and day</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.DateAdd(System.String,System.Double,System.Object)">
+            <summary>
+            Add an interval to a date
+            </summary>
+            <param name="interval">The type of interval to use ("YYYY", "M", "D", "H", "N", "S", "ms", "ww")</param>
+            <param name="number">The size of the interval to add</param>
+            <param name="date">The DateTime object to add to</param>
+            <returns>The date with the interval added, clamped between DateTime.MinValue and DateTime.MaxValue </returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.DateDiff(System.String,System.Object,System.Object,System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Find the interval between two date times
+            </summary>
+            <param name="interval">The type of interval to find ("YYYY", "M", "D", "H", "N", "S", "ms")</param>
+            <param name="date1">The starting DateTime of the interval</param>
+            <param name="date2">The ending DateTime of the interval</param>
+            <param name="firstdayofweek">(Optional) The first day of the week.  Looks like it's ignored.</param>
+            <param name="firstweekofyear">(Optional) The first week of the year.  Looks like it's ignored.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.FormatDateTime(System.Object,System.Nullable{System.Int32})">
+            <summary>
+            Format a DateTime with an optional named format
+            </summary>
+            <param name="date">The Date to convert to a string</param>
+            <param name="namedFormat">(Optional) Defaults to vbGeneralDate</param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.TimeValue(System.Object)">
+            <summary>
+            Get the Time component of a given DateTime, on today's date.
+            </summary>
+            <param name="date">The DateTime to extract the time component from</param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.DateValue(System.Object)">
+            <summary>
+            Get the Date component of a given DateTime
+            </summary>
+            <param name="date">The DateTime to use</param>
+            <returns>The DateTime with a normalized Time component</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dates.Timer">
+            <summary>
+            Start or read the timer
+            </summary>
+            <returns>First call: starts the timer.  Every call: returns the number of Seconds, to Double precision, since the Timer was started.</returns>
+        </member>
+        <member name="T:Wasabi.Runtime.Dynamic">
+            <summary>
+            Methods for dynamic invocation of, for example, union type members
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Dynamic.Invoke(System.String,System.Object,System.String,System.Object[])">
+            <summary>
+            Invoke a method dynamically where the return type is unspecified
+            </summary>
+            <param name="memberType">"field", "property", or "method"</param>
+            <param name="target">The object on which to reflect</param>
+            <param name="member">The name of the member</param>
+            <param name="args">Any args that are to be passed</param>
+            <returns>The function call, property, or field's value (if not a set_ or void function)</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Dynamic.Invoke``1(System.String,System.Object,System.String,System.Object[])">
+            <summary>
+            Invoke a method dynamically where the return type is known
+            </summary>
+            <param name="memberType">"field", "property", or "method"</param>
+            <param name="target">The object on which to reflect</param>
+            <param name="member">The name of the member</param>
+            <param name="args">Any args that are to be passed</param>
+            <returns>The function call, property, or field's value (if not a set_ or void function)</returns>
+        </member>
+        <member name="T:Wasabi.Runtime.GlobalBase">
+            <summary>
+            The Wasabi Global object is an instance of this class; it contains all the global methods and variables
+            ContextBoundObject breaks Mono. FogBugz case 1146877 tracks working around this so that we can use this Wasabi to build Mono.
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.GlobalBase._sDebug">
+            <summary>
+            A string used for sDebug request debugging
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.GlobalBase.Response">
+            <summary>
+            Get the current Web.Response
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.GlobalBase.Request">
+            <summary>
+            Get the current Web.Request
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.GlobalBase.Server">
+            <summary>
+            Get the current Web.Server
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.GlobalBase.Application">
+            <summary>
+            Get the current Web.Application
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.GlobalBase.Session">
+            <summary>
+            Get the current Web.Session
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.GlobalBase.Trace">
+            <summary>
+            Get the current Web trace context
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.GlobalBase.ResponseWrapper">
+            <summary>
+            Wrapper class
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsRunningWindows">
+            <summary>
+            Checks to see if the server is running Windows
+            </summary>
+            <returns>true if the server is Windows</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsRunningUnix">
+            <summary>
+            Checks to see if the server is running UNIX
+            </summary>
+            <returns>true if the server is UNIX</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsRunningOnMono">
+            <summary>
+            Checks to see if the server is running on Mono
+            </summary>
+            <returns>true if running on Mono</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsRunning64Bit">
+            <summary>
+            Checks to see if we are running in 64 bit mode
+            </summary>
+            <returns>true if running in a 64bit process</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.LBound(System.Object,System.Nullable{System.Int32})">
+            <summary>
+            Get the lower bound of an array dimension
+            </summary>
+            <param name="exp">The array in question</param>
+            <param name="dim">(Optional) The (1-based) dimension of the array in question (default: 1)</param>
+            <returns>The lower bound of the array dimension</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.UBound(System.Object,System.Nullable{System.Int32})">
+            <summary>
+            Get the upper bound of an array dimension
+            </summary>
+            <param name="exp">The array in question</param>
+            <param name="dim">(Optional) The dimension in question (default: 1)</param>
+            <returns>The upper bound of the array dimension</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsArray(System.Object)">
+            <summary>
+            Is an object an array?
+            </summary>
+            <param name="exp">The object in question</param>
+            <returns>True if the object is an array, False otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsDate(System.Object)">
+            <summary>
+            Is an object a DateTime?
+            </summary>
+            <param name="exp">The object in question</param>
+            <returns>True if the object is a DateTime, False otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsDbNull(System.Object)">
+            <summary>
+            Is an object a DBNull?
+            </summary>
+            <param name="exp">The object in question</param>
+            <returns>True if the object is DBNull, false otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsNumeric(System.Object)">
+            <summary>
+            Is an object numeric?
+            </summary>
+            <param name="exp">The object in question</param>
+            <returns>True if the object is a numeric type</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsObject(System.Object)">
+            <summary>
+            Is this an object or a value type?
+            </summary>
+            <param name="exp">The object/value type in question</param>
+            <returns>True if it is an object or nothing, False otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsMissing(System.Object)">
+            <summary>
+            Check if a function parameter is missing.  Currently, it uses null as the placeholder; we may change this to 
+            System.Missing in the future so don't assume it will return true on Nothing
+            </summary>
+            <param name="exp">The parameter</param>
+            <returns>True if it's missing, False if it's not</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.IsInvalidValue(System.Object)">
+            <summary>
+            Check if a value is an invalid value (vbInvalidDate, vbInvalidInt, vbInvalidDouble)
+            </summary>
+            <param name="exp">The object/value type in question</param>
+            <returns>True if it is an invalid value, False otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Information.TypeName(System.Object)">
+            <summary>
+            Get the name of an object's type
+            </summary>
+            <param name="exp">The object in question</param>
+            <returns>The object's name</returns>
+            <example><code>TypeName("asdf") ' returns "String"</code></example>
+        </member>
+        <member name="T:Wasabi.Runtime.Mail.QPEncoder">
+            <summary>
+            Encodes text as quoted-printable. The class is part of DotNetOpenMail and is
+            used with some minor modifications and bug fixes.
+            </summary>
+            <remarks>see also http://www.freesoft.org/CIE/RFC/1521/6.htm</remarks>
+        </member>
+        <member name="F:Wasabi.Runtime.Mail.QPEncoder.MAX_CHARS_PER_LINE">
+            <summary>
+            Maximum characters per line, before the end-of-line character (equal sign)
+            
+            Note: The 76 character limit does not count the trailing CRLF, 
+            but counts all other characters, INCLUDING any equal signs.
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Mail.QPEncoder.END_OF_LINE">
+            <summary>
+            The end-of-line character(s).
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.#ctor">
+            <summary>
+            Empty Constructor
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.GetInstance">
+            <summary>
+            Create an instance of the encoder
+            </summary>
+            <returns>The instantiated Quoted-printable encoder</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.Encode(System.IO.BinaryReader,System.IO.StringWriter)">
+            <summary>
+            Encode the incoming stream in quoted-printable encoding.
+            </summary>
+            <param name="binaryreader">The incoming binary reader</param>
+            <param name="stringwriter">The outgoing string writer</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.Encode(System.IO.FileStream,System.IO.StringWriter,System.Text.Encoding)">
+            <summary>
+            Encode the incoming stream in quoted-printable encoding.
+            </summary>
+            <param name="filestream">The incoming file stream</param>
+            <param name="stringwriter">The outgoing string writer</param>
+            <param name="charset">The charset to write the outgoing string in</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Wasabi.Runtime.Mail.QPEncoder.Encode(System.IO.StringReader,System.IO.StringWriter,System.Text.Encoding)" -->
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.EncodeString(System.String,System.Text.Encoding)">
+            <summary>
+            Encode the string in quoted printable format
+            </summary>
+            <param name="str">The source string</param>
+            <param name="charset">The outgoing charset</param>
+            <returns>the encoded string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.EncodeString(System.String,System.Text.Encoding,System.Boolean,System.Int32)">
+            <summary>
+            Encode the string in quoted printable format
+            </summary>
+            <param name="sourceString">The source string</param>
+            <param name="charset">The outgoing charset</param>
+            <param name="forceRFC2047">Force encoding, even if not required by qp RFC</param>
+            <param name="offset">The total characters outside the encoding.  This is used to figure
+            out how long the line will be after encoding.</param>
+            <returns>the encoded string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.EncodeHeaderString(System.String,System.String,System.Text.Encoding,System.Boolean)">
+            <summary>
+            Encode header as per RFC 2047:
+            http://www.faqs.org/rfcs/rfc2047.html
+            
+            </summary>
+            <remarks>This doesn't split long lines yet</remarks>
+            <param name="name">the header name</param>
+            <param name="val">the string to encode</param>
+            <param name="charset">The charset to encode to</param>
+            <param name="forceencoding">Force encoding, even if not required by qp RFC</param>
+            <returns>the encoded string, suitable for use in a header</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.EncodeChar(System.Char)">
+            <summary>
+            Encode a char according to quoted-printable
+            standard
+            </summary>
+            <param name="ch">the char to encode</param>
+            <returns>the encoded char representation</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.EncodeByte(System.Byte)">
+            <summary>
+            Encode a byte according to quoted-printable
+            standard
+            </summary>
+            <param name="ch">the byte to encode</param>
+            <returns>the encoded byte representation</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.NeedsEncoding(System.Char,System.Boolean)">
+            <summary>
+            Return true if the char needs to be encoded.
+            </summary>
+            <param name="ch"></param>
+            <param name="forceRFC2047"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.NeedsEncoding(System.Byte,System.Boolean)">
+            <summary>
+            Return true if the byte needs to be encoded.
+            </summary>
+            <param name="ch"></param>
+            <param name="forceRFC2047"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.IsNonAscii(System.String)">
+            <summary>
+            Return true if the string needs to be encoded.
+            </summary>
+            <param name="str">The string to check</param>
+            <returns>true if outside 127-bit, or one of the
+            quoted-printable special characters.</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Mail.QPEncoder.IsNonAscii(System.Char)">
+            <summary>
+            Check if the character is one of the non-qp 
+            characters
+            </summary>
+            <param name="ch">the character to check</param>
+            <returns>true if outside the acceptable qp range</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Wasabi.Runtime.Mail.QPEncoder.Encode(System.IO.StringReader,System.IO.StringWriter,System.Text.Encoding,System.Boolean,System.Int32)" -->
+        <member name="P:Wasabi.Runtime.Mail.QPEncoder.ContentTransferEncodingString">
+            <summary>
+            The String that goes in the content transfer encoding header
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Match">
+            <summary>
+            RegExp Match object
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Match.op_Implicit(Wasabi.Runtime.Match)~System.String">
+            <summary>
+            Implicitly convert a Match to a String
+            </summary>
+            <param name="a">The match to convert</param>
+            <returns>The value of a</returns>
+        </member>
+        <member name="P:Wasabi.Runtime.Match.FirstIndex">
+            <summary>
+            Get the 1-based index of the first character
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Match.Length">
+            <summary>
+            Get the string length of the match 
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Match.SubMatches">
+            <summary>
+            Get a collection of submatches, or an empty collection if no match
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Match.Value">
+            <summary>
+            Get the string value of the match
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.MatchCollection">
+            <summary>
+            An ordered collection of matches
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.MatchCollection.System#Collections#IEnumerable#GetEnumerator">
+            <summary>
+            Get the enumerator
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.MatchCollection.System#Collections#Generic#IEnumerable{Wasabi#Runtime#Match}#GetEnumerator">
+            <summary>
+            Get the enumerator
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.MatchCollection.Count">
+            <summary>
+            Get how many matches were made
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.MatchCollection.Item(System.Int32)">
+            <summary>
+            Get the specified match
+            </summary>
+            <param name="index">Index of the match</param>
+            <returns>The specified match</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Sqr(System.Double)">
+            <summary>
+            Square root
+            </summary>
+            <param name="f">The number</param>
+            <returns>sqrt(f)</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Log(System.Double)">
+            <summary>
+            Natural logarithm
+            </summary>
+            <param name="f">The number</param>
+            <returns>ln(f)</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Exp(System.Double)">
+            <summary>
+            Returns e raised to the specified power
+            </summary>
+            <param name="f">The number</param>
+            <returns>e^(f)</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Abs(System.Double)">
+            <summary>
+            Absolute value
+            </summary>
+            <param name="f">The number</param>
+            <returns>|f|</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Min(System.Int32,System.Int32)">
+            <summary>
+            Finds the smaller of two numbers
+            </summary>
+            <param name="a">Any Int32</param>
+            <param name="b">Any Int32</param>
+            <returns>The smaller of a or b</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Max(System.Int32,System.Int32)">
+            <summary>
+            Finds the larger of two numbers
+            </summary>
+            <param name="a">Any Int32</param>
+            <param name="b">Any Int32</param>
+            <returns>The smaller of a or b</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Randomize(System.Double)">
+            <summary>
+            Initializes pseudo-random number generator
+            </summary>
+            <param name="seed">The seed to use in the PRNG</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Rnd">
+            <summary>
+            Get a random number
+            </summary>
+            <returns>A pseudorandom Double between 0.0 and 1.0</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Math.Round(System.Double,System.Nullable{System.Int32})">
+            <summary>
+            Round a number towards zero
+            </summary>
+            <param name="number">The number to round</param>
+            <param name="numdecimalplaces">
+            (Optional) How many decimal places to preserve.
+            Rounds to integer-level accuracy if not provided.</param>
+            <returns>The rounded number</returns>
+        </member>
+        <member name="T:Wasabi.Runtime.Obsolete">
+            <summary>
+            Do not use any of the Functions or Subs contained in this class.
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.RegExp">
+            <summary>
+            The RegExp containing class
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.RegExp.Execute(System.String)">
+            <summary>
+            Execute the RegExp on the given string
+            </summary>
+            <param name="sourceString">The string to operate on</param>
+            <returns>The matches</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.RegExp.Replace(System.String,System.Object)">
+            <summary>
+            Execute the RegExp, replacing matches
+            </summary>
+            <param name="sourceString">The string to operate on</param>
+            <param name="replaceVar">The string to replace matches with</param>
+            <returns>The altered string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.RegExp.Test(System.String)">
+            <summary>
+            Execute the RegExp, and see if there are matches
+            </summary>
+            <param name="sourceString">The string to test</param>
+            <returns>True if there are matches, False otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf(Wasabi.Runtime.Functional.Sub)">
+            <summary>PictureOf delegate for 0 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``1(Wasabi.Runtime.Functional.Sub{``0},``0)">
+            <summary>PictureOf delegate for 1 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``2(Wasabi.Runtime.Functional.Sub{``0,``1},``0,``1)">
+            <summary>PictureOf delegate for 2 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``3(Wasabi.Runtime.Functional.Sub{``0,``1,``2},``0,``1,``2)">
+            <summary>PictureOf delegate for 3 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``4(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3},``0,``1,``2,``3)">
+            <summary>PictureOf delegate for 4 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``5(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4},``0,``1,``2,``3,``4)">
+            <summary>PictureOf delegate for 5 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``6(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5},``0,``1,``2,``3,``4,``5)">
+            <summary>PictureOf delegate for 6 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``7(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6},``0,``1,``2,``3,``4,``5,``6)">
+            <summary>PictureOf delegate for 7 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``8(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7},``0,``1,``2,``3,``4,``5,``6,``7)">
+            <summary>PictureOf delegate for 8 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``9(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8},``0,``1,``2,``3,``4,``5,``6,``7,``8)">
+            <summary>PictureOf delegate for 9 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``10(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9)">
+            <summary>PictureOf delegate for 10 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``11(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10)">
+            <summary>PictureOf delegate for 11 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``12(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11)">
+            <summary>PictureOf delegate for 12 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``13(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12)">
+            <summary>PictureOf delegate for 13 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``14(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13)">
+            <summary>PictureOf delegate for 14 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``15(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14)">
+            <summary>PictureOf delegate for 15 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``16(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15)">
+            <summary>PictureOf delegate for 16 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``17(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16)">
+            <summary>PictureOf delegate for 17 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``18(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16,``17},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16,``17)">
+            <summary>PictureOf delegate for 18 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``19(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16,``17,``18},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16,``17,``18)">
+            <summary>PictureOf delegate for 19 parameters</summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Web.Response.PictureOf``20(Wasabi.Runtime.Functional.Sub{``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16,``17,``18,``19},``0,``1,``2,``3,``4,``5,``6,``7,``8,``9,``10,``11,``12,``13,``14,``15,``16,``17,``18,``19)">
+            <summary>PictureOf delegate for 20 parameters</summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Web.Response.ResponseTextWriter">
+            <summary>
+            Write to a console
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.Web.Response.ResponseWebResponse">
+            <summary>
+            Write to a web page
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbBinaryCompare">
+            <summary>
+            Compare, case-sensitive
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbTextCompare">
+            <summary>
+            Compare, ignoring case
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbDatabaseCompare">
+            <summary>
+            Compare, ignoring case
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbTab">
+            <summary>
+            A string containing the tab character
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbCr">
+            <summary>
+            A string containing the Carriage Return character
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbLf">
+            <summary>
+            A string containing the Linefeed character
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbCrLf">
+            <summary>
+            A string containing the carriage return, followed by a line feed
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.vbNewline">
+            <summary>
+            A string containing the carriage return, followed by a line feed
+            </summary>
+        </member>
+        <member name="F:Wasabi.Runtime.Strings.DirectorySeparator">
+            <summary>
+            The character used to denote a directory.
+            @"/" on Unix, @"\" on Windows, @":" on Mac OS Classic
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Len(System.Object)">
+            <summary>
+            Get the length of a string
+            </summary>
+            <param name="exp">A string, DBNull, or Nothing</param>
+            <returns>0 if DBNull or Nothing or VbInvalidXYZ; the number of characters in the string otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Mid(System.String,System.Object,System.Object)">
+            <summary>
+            Return characters from the middle of a string
+            </summary>
+            <param name="exp">The string to find part of</param>
+            <param name="start">Index of the first character in the substring</param>
+            <param name="count">(Optional) The number of characters to return (return to the end if not specified)</param>
+            <returns>The substring</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Right(System.String,System.Object)">
+            <summary>
+            Get a substring from the end of the string
+            </summary>
+            <param name="exp">The string to find part of</param>
+            <param name="count">The number of characters to return from the end</param>
+            <returns>The string containing count characters from the end of exp</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">when count is greater than the length of exp</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Left(System.String,System.Object)">
+            <summary>
+            Get a substring from the beginning of the string
+            </summary>
+            <param name="exp">The string to find part of</param>
+            <param name="count">The number of characters at the beginning of exp to return</param>
+            <returns>The string containing count characters from the end of exp</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">when count is greater than the length of exp</exception>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.UCase(System.String)">
+            <summary>
+            Raise a string to uppercase
+            </summary>
+            <param name="exp">The string to raise</param>
+            <returns>The raised string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.LCase(System.String)">
+            <summary>
+            Lower an entire string to lowercase
+            </summary>
+            <param name="exp">The string to lower</param>
+            <returns>The lowered string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Join(System.Object,System.String)">
+            <summary>
+            Join an array of strings into one string with a delimiter
+            </summary>
+            <param name="array">The array to join</param>
+            <param name="del">The delimiter</param>
+            <returns>The string joined together</returns>
+            <example>
+            <code>
+            Dim rg = Array("B","W","W")
+            Dim s = Join(rg, "OOGY ")
+            ' s is now "BOOGY WOOGY WOOGY "
+            </code>
+            </example>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Split(System.String,System.Object,System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Split a delimited string into an array, optionally only returning a specific number or less or using a specific comparison
+            </summary>
+            <param name="exp">The string to split</param>
+            <param name="delimiter">The delimiter</param>
+            <param name="count">(Optional) The maximum number of matches to return</param>
+            <param name="compare">(Optional) vbBinaryCompare or vbTextCompare (defaults to vbBinaryCompare)</param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.SplitOnChars(System.String,System.String)">
+            <summary>
+            Split a string into an array of strings using any of the supplied characters as a delimiter
+            </summary>
+            <param name="exp">The string to split</param>
+            <param name="scDelimiters">The string representing an array of character delimiters</param>
+            <returns>Array of strings after split</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.InStr(System.Object,System.String,System.Object)">
+            <summary>
+            Finds the index of a string if it is found in another string
+            </summary>
+            <param name="start">The string to search, or the starting position for each search.</param>
+            <param name="exp">If the previous parameter was a string, the string to search for.  If the previous parameter was an integer, the string to search in.</param>
+            <param name="string">(Optional) The string to search for, if one was not already specified.</param>
+            <returns>0 if it is not found, the 1-based index of the first match otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Replace(System.String,System.String,System.String,System.Object,System.Object,System.Object)">
+            <summary>
+            Replace parts of a string 
+            </summary>
+            <param name="exp">The source string</param>
+            <param name="find">The substring to replace</param>
+            <param name="replacewith">The value to replace it with</param>
+            <param name="start">(Optional) The first character to start matching</param>
+            <param name="count">(Optional) The number of replacements to make</param>
+            <param name="compare">(Optional) The type of text comparison to use, vbBinaryCompare or vbTextCompare.  (Defaults to vbBinaryCompare)</param>
+            <returns>The modified string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Chr(System.Object)">
+            <summary>
+            Get a character by ASCII code
+            </summary>
+            <param name="exp">The ASCII code</param>
+            <returns>A string containing the ASCII character specified</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.ChrB(System.Object)">
+            <summary>
+            Not implemented!
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.ChrW(System.Object)">
+            <summary>
+            Get a Unicode character by ASCII code
+            </summary>
+            <param name="exp">The ASCII code</param>
+            <returns>A Unicode string containing the ASCII character specified</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Asc(System.Object)">
+            <summary>
+            Get the ASCII code of the first character in a string
+            </summary>
+            <param name="exp">The string to convert to ASCII value</param>
+            <returns>The ASCII code of the first character of exp</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.AscW(System.Object)">
+            <summary>
+            Get the ASCII code of the first character in a string
+            </summary>
+            <param name="exp">The string to convert to ASCII value</param>
+            <returns>The ASCII code of the first character of exp</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Trim(System.String)">
+            <summary>
+            Removes all occurrences of white characters from the beginning and end of a string
+            </summary>
+            <param name="exp">The string to trim</param>
+            <returns>The trimmed string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.GetLocale">
+            <summary>
+            Get the current culture identifier
+            </summary>
+            <returns>The locale ID</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.SetLocale(System.String)">
+            <summary>
+            Set the current culture
+            </summary>
+            <param name="locid">Locale ID or locale string</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.Space(System.Object)">
+            <summary>
+            Get some spaces
+            </summary>
+            <param name="count">The number of spaces to get</param>
+            <returns>" " <see cref="!:count"/> times</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.InStrB(System.Object,System.String,System.Object)">
+            <summary>
+            Not implemented!
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.MidB(System.String,System.Object,System.Object)">
+            <summary>
+            Not implemented!
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.WriteToFile(System.String,System.String)">
+            <summary>
+            Only implemented for compiler in Interpreter.cs
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.AscB(System.String)">
+            <summary>
+            Not implemented!
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.LenB(System.String)">
+            <summary>
+            Not implemented!
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.StrReverse(System.String)">
+            <summary>
+            Reverse a string
+            </summary>
+            <param name="exp">The string to reverse</param>
+            <returns>The reversed string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.FormatCurrency(System.Object,System.Object,System.Object,System.Object,System.Object)">
+            <summary>
+            Formats an expression as a currency value using the current currency symbol
+            <param name="exp">The expression to format</param>
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.FormatNumber(System.Object,System.Object,System.Object,System.Object,System.Object)">
+            <summary>
+            Formats the expression as a printable number
+            <param name="exp">The expression to format</param>
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.StrComp(System.String,System.String,System.Object)">
+            <summary>
+            Compare two strings
+            <param name="compare">What sort of comparison, vbBinaryCompare or vbTextCompare, should be done?</param>
+            <param name="string1">The first string</param>
+            <param name="string2">The second string</param>
+            <returns>an integer that indicates whether string1 precedes, follows, or appears in the same position in the sort order as string2</returns>
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.String(System.Object,System.String)">
+            <summary>
+            Duplicate a character n times
+            </summary>
+            <param name="n">Number of times to duplicate the character</param>
+            <param name="char">The character to duplicate</param>
+            <returns>The character, n times</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.FormatString(System.String,System.Object[])">
+            <summary>
+            Replace placeholders in a string
+            </summary>
+            <param name="format">The string to format</param>
+            <param name="args">The arguments to use as replacements </param>
+            <returns>The formatted string</returns>
+            <exception cref="T:System.FormatException">The args don't match the placeholders</exception>
+            <example><code>
+            Dim s = FormatString("{0} is a {1}", "This", "cool example") ' s = "This is a cool example"
+            </code></example>
+        </member>
+        <member name="M:Wasabi.Runtime.Strings.EscapeNonEscapedDisplayNameCharacters(System.String)">
+            <summary>
+            Escapes any non-escaped quotes or backslashes in a given string.
+            </summary>
+            <param name="s">The string to process.</param>
+            <returns>The string with any non-escaped characters escaped.</returns>
+        </member>
+        <member name="T:Wasabi.Runtime.Mutex">
+            <summary>
+            A synchronization primitive; used to lock one thread until another thread signals it
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mutex.WaitOne">
+            <summary>
+            Wait until another thread signals this mutex
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Mutex.ReleaseMutex">
+            <summary>
+            Release the mutex so another thread can own it
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Threading.CreateNamedMutex(System.String,System.Boolean)">
+            <summary>
+            Create a new mutex
+            </summary>
+            <param name="name">(Required) The unique name of the mutex</param>
+            <param name="fAvailableAcrossUserAccounts">Whether the mutex should be accessible across multiple user accounts on this host</param>
+            <returns></returns>
+        </member>
+        <member name="T:Wasabi.Runtime.TimingManager">
+            <summary>
+            A class that provides a comprehensive interface for recording and graphing timing data
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.TimingManager.StartTiming(System.String)">
+            <summary>
+            Start a timing interval on a function with the given name
+            </summary>
+            <param name="sName">The name of the function being called</param>
+            <returns>The unique index of that function; to be passed to StopTiming</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.TimingManager.StopTiming(System.Int32)">
+            <summary>
+            Closes a timing interval
+            </summary>
+            <param name="ixTiming">The timing index returned by StartTiming</param>
+        </member>
+        <member name="M:Wasabi.Runtime.TimingManager.ShowTable">
+            <summary>
+            Renders an HTML table to Web.Context.Current.Response.Write that shows the timing data that has been recorded
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Wasabi.Runtime.TimingManager.Current">
+            <summary>
+            Gets or sets the TimingManager running on this CallContext
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.UnitTestOverrideHelper">
+            <summary>
+            A class used explicitly for unit tests
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestOverrideHelper.Test(System.Int32)">
+            <summary>
+            The Int32 overload of Test
+            </summary>
+            <param name="x">Any Int32</param>
+            <returns>1</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestOverrideHelper.Test(System.String)">
+            <summary>
+            The String overload of Test
+            </summary>
+            <param name="s">Any String</param>
+            <returns>2</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestOverrideHelper.TestParamArray(System.Int32)">
+            <summary>
+            The int overload of TestParamArray
+            </summary>
+            <param name="x">Any int</param>
+            <returns>1</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestOverrideHelper.TestParamArray(System.String[])">
+            <summary>
+            The string paramarray overload of TestParamArray
+            </summary>
+            <param name="s">Any number of strings</param>
+            <returns>2</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.Pwd">
+            <summary>
+            Get the current directory
+            </summary>
+            <returns>The path to the current directory</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.ChDir(System.String)">
+            <summary>
+            Change the current directory
+            </summary>
+            <param name="path">The path to the new directory</param>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.GetFiles(System.String)">
+            <summary>
+            Get an array of filenames contained in a directory
+            </summary>
+            <param name="path">The directory path to search</param>
+            <returns>An array of filenames</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.GetSubDirectories(System.String)">
+            <summary>
+            Get an array of subdirectory names in a direcotry
+            </summary>
+            <param name="path">The directory path to search</param>
+            <returns>An array of subdirectory names</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.FileExists(System.String)">
+            <summary>
+            Does the file with the given name exist?
+            </summary>
+            <param name="file">The file to test</param>
+            <returns>True if it exists, False otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.FileDelete(System.String)">
+            <summary>
+            Delete the specified file or directory
+            </summary>
+            <param name="file">The file or directory name to remove</param>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.FileSetNormalAttributes(System.String)">
+            <summary>
+            Set normal attributes on specified file
+            </summary>
+            <param name="file">The file on which to set normal attributes</param>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.FileCopy(System.String,System.String)">
+            <summary>
+            Copy the specified file to specified destination
+            </summary>
+            <param name="file">The file to copy</param>
+            <param name="destination">The file destination</param>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.DirectoryCopy(System.String,System.String)">
+            <summary>
+            Copy the specified directory to specified destination
+            </summary>
+            <param name="file">The directory to copy</param>
+            <param name="destination">The directory destination</param>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.System(System.String)">
+            <summary>
+            Execute a program
+            </summary>
+            <param name="cmd">The command to execute</param>
+            <returns>A string array with (Standard Error, Standard Output)</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.UnitTestHelper.StartThread(Wasabi.Runtime.Functional.Sub)">
+            <summary>
+            Start a thread with the given Sub
+            </summary>
+            <param name="function">The Sub to run on a different thread</param>
+        </member>
+        <member name="T:Wasabi.Runtime.WasabiDictionary`1">
+            <summary>
+            Fast Dictionary
+            </summary>
+            <typeparam name="T">The object type contained in the dictionary</typeparam>
+        </member>
+        <member name="M:Wasabi.Runtime.WasabiDictionary`1.Exists(System.String)">
+            <summary>
+            Does the dictionary contain the given key?
+            </summary>
+            <param name="key">Key to search for</param>
+            <returns>True if it is contained, False otherwise</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.WasabiDictionary`1.Items">
+            <summary>
+            Get an array with all the items in the dictionary
+            </summary>
+            <returns>Array of items</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.WasabiDictionary`1.Keys">
+            <summary>
+            Get an array with all the keys in the dictionary
+            </summary>
+            <returns>Array of keys</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.WasabiDictionary`1.Add(System.String,`0)">
+            <summary>
+            Add a value, with the given key
+            </summary>
+            <param name="key">The key</param>
+            <param name="val">The value to store</param>
+        </member>
+        <member name="M:Wasabi.Runtime.WasabiDictionary`1.Remove(System.String)">
+            <summary>
+            Remove the item with the given key
+            </summary>
+            <param name="key">Key of the item to remove</param>
+        </member>
+        <member name="M:Wasabi.Runtime.WasabiDictionary`1.RemoveAll">
+            <summary>
+            Clear the dictionary
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WasabiDictionary`1.Count">
+            <summary>
+            Get the number of items stored in the dictionary
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WasabiDictionary`1.Item(System.String)">
+            <summary>
+            Get the item with a specified key
+            </summary>
+            <param name="key">Key of the item to retrieve</param>
+            <returns>The item</returns>
+        </member>
+        <member name="P:Wasabi.Runtime.WasabiDictionary`1.CompareMode">
+            <summary>
+            Get the key comparison mode (currently hardcoded to be vbBinaryCompare; don't try to set it!)
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.ProcessImplNormal.Terminate">
+            <summary>
+            Kill the process
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.ProcessImplNormal.WaitForExit">
+            <summary>
+            Wait for the process to exit
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.ProcessImplNormal.ExitCode">
+            <summary>
+            Get the process exit code
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.ProcessImplNormal.ProcessID">
+            <summary>
+            Get the unique identifier for the process
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.ProcessImplNormal.Status">
+            <summary>
+            Get the process status: 1 if running, 0 if exited
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.ProcessImplNormal.StdErr">
+            <summary>
+            Get the TextStream associated with standard error
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.ProcessImplNormal.StdIn">
+            <summary>
+            Get the TextStream associated with standard input
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.ProcessImplNormal.StdOut">
+            <summary>
+            Get the TextStream associated with standard output
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.WScript.Shell">
+            <summary>
+            The Shell class is used to make new processes
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Shell.Exec(System.String)">
+            <summary>
+            Execute a shell command
+            </summary>
+            <param name="Command">The command to execute</param>
+            <returns>The <see cref="T:Wasabi.Runtime.WScript.Process"/> handler</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Shell.ExpandEnvironmentStrings(System.String)">
+            <summary>
+            Expands environment-variable strings and replaces them with the values defined for the current user.
+            </summary>
+            <param name="Src">The string to expand</param>
+            <returns>The expanded string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Shell.RegDelete(System.String)">
+            <summary>
+            Not implemented!
+            </summary>
+            <param name="Name">Not implemented!</param>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Shell.RegRead(System.String)">
+            <summary>
+            Not implemented!
+            </summary>
+            <param name="Name">Not implemented!</param>
+            <returns></returns>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Shell.RegWrite(System.String,System.Object,System.Int32)">
+            <summary>
+            Not implemented!
+            </summary>
+            <param name="Name">Not implemented!</param>
+            <param name="Value">Not implemented!</param>
+            <param name="Type">(Optional) Not implemented!</param>
+            <returns></returns>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Shell.CurrentDirectory">
+            <summary>
+            Get the path to the current directory
+            </summary>
+        </member>
+        <member name="T:Wasabi.Runtime.WScript.Process">
+            <summary>
+            A Process object is used to keep track of processes spawned by the current process.
+            Spawn a new one in Shell
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Process.Terminate">
+            <summary>
+            Kill the process
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Process.WaitForExit">
+            <summary>
+            Wait for the process to exit
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Process.ExitCode">
+            <summary>
+            Get the process exit code
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Process.ProcessID">
+            <summary>
+            Get the unique identifier for the process
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Process.Status">
+            <summary>
+            Get the process status: 1 if running, 0 if exited
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Process.StdErrString">
+            <summary>
+            Gets the StdErr output so far
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Process.StdErr">
+            <summary>
+            Get the TextStream associated with standard error
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Process.StdIn">
+            <summary>
+            Get the TextStream associated with standard input
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.WScript.Process.StdOut">
+            <summary>
+            Get the TextStream associated with standard output
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.WScript.Network.MapNetworkDrive(System.String,System.String,System.Boolean,System.String,System.String)">
+            <summary>
+            Map a network drive locally
+            </summary>        
+        </member>
+        <member name="T:Wasabi.Runtime.Xml.ServerXmlHttp">
+            <summary>
+            Use to get XML from an HTTP server
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Xml.ServerXmlHttp.Abort">
+            <summary>
+            Cancel the outstanding request
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Xml.ServerXmlHttp.GetAllResponseHeaders">
+            <summary>
+            Not implemented!
+            </summary>
+        </member>
+        <member name="M:Wasabi.Runtime.Xml.ServerXmlHttp.GetResponseHeader(System.String)">
+            <summary>
+            Get the header associated with the response
+            </summary>
+            <param name="header">The header to get</param>
+            <returns>The header string</returns>
+        </member>
+        <member name="M:Wasabi.Runtime.Xml.ServerXmlHttp.SetRequestHeader(System.String,System.String)">
+            <summary>
+            Set a header
+            </summary>
+            <param name="header">The header to set</param>
+            <param name="value">The value to give the header</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Xml.ServerXmlHttp.SetTimeout(System.Int32)">
+            <summary>
+            Allow a given time-out value
+            </summary>
+            <param name="ms">Timeout in milliseconds</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Xml.ServerXmlHttp.Open(System.String,System.String,System.Nullable{System.Boolean},System.String,System.String)">
+            <summary>
+            Open a request
+            </summary>
+            <param name="method">GET or POST</param>
+            <param name="url">The URL to open</param>
+            <param name="async">(Optional) Is this asynchronous?</param>
+            <param name="username">(Optional) The username to use</param>
+            <param name="password">(Optional) The password to use</param>
+        </member>
+        <member name="M:Wasabi.Runtime.Xml.ServerXmlHttp.Send(System.String)">
+            <summary>
+            Send a POST request
+            </summary>
+            <param name="postData">(Optional) the POST data to write</param>
+        </member>
+        <member name="P:Wasabi.Runtime.Xml.ServerXmlHttp.AcceptCookies">
+            <summary>
+            Accept response cookies
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Xml.ServerXmlHttp.ResponseCookies">
+            <summary>
+            Get the response cookies object
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Xml.ServerXmlHttp.RequestCookies">
+            <summary>
+            Get the request cookies object
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Xml.ServerXmlHttp.ReadyState">
+            <summary>
+            What state is this ServerXmlHttp in?
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Xml.ServerXmlHttp.ResponseText">
+            <summary>
+            Get the text returned
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Xml.ServerXmlHttp.Status">
+            <summary>
+            Get the status code
+            </summary>
+        </member>
+        <member name="P:Wasabi.Runtime.Xml.ServerXmlHttp.StatusText">
+            <summary>
+            Get the statuscode as a string
+            </summary>
+        </member>
+    </members>
+</doc>

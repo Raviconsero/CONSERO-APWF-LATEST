@@ -1,0 +1,2 @@
+1.create vendor coloumn in buginvoice table to fetch vendor name.
+2. select test mail in custome form.

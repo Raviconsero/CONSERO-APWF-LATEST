@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{986EAD5D-174D-49DB-8EAC-9ED1AC15FBB0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PEReminderMail</RootNamespace>
+    <AssemblyName>PEReminderMail</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FogBugz">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogBugz.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.AppDomainTools">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.AppDomainTools.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Database">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.DateTime">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DateTime.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.DiffPatch">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DiffPatch.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Ferret">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Ferret.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.HtmlParser">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.HtmlParser.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Licensing">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Plugins">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Plugins.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Search">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Search.dll</HintPath>
+    </Reference>
+    <Reference Include="FogCreek.Utilities">
+      <HintPath>..\..\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

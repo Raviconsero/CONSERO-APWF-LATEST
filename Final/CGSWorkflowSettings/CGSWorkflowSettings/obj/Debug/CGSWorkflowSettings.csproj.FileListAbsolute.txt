@@ -1,0 +1,130 @@
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\CGSWorkflowSettings.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\CGSWorkflowSettings.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\CGSWorkflowSettings.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\CGSWorkflowSettings.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\CGSWorkflowSettings.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\CGSWorkflowSettings.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\CGSWorkflowSettings.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\Plugins on Local\Live\CGSWorkflowSettings\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\CGSWorkflowSettings.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\CGSWorkflowSettings.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\CGSWorkflowSettings.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Database.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Licensing.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DateTime.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.HtmlParser.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Ionic.Utils.Zip.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\SourceSafe.Interop.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Search.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DiffPatch.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Ferret.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Utilities.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.AppDomainTools.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Interop.ADOX.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Interop.ADODB.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Mail.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Util.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\HtmlAgilityPack.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Irony.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogBugz.xml
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Database.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Plugins.xml
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Runtime.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Licensing.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DateTime.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.HtmlParser.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Ionic.Utils.Zip.xml
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Search.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.DiffPatch.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Ferret.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.Utilities.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Newtonsoft.Json.Net20.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Mail.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\bin\Debug\Wasabi.Util.pdb
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\ResolveAssemblyReference.cache
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\CGSWorkflowSettings.dll
+D:\MLA\CGSWorkflowSettings\CGSWorkflowSettings\obj\Debug\CGSWorkflowSettings.pdb

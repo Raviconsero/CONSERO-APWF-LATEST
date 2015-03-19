@@ -1,0 +1,130 @@
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\BVRemainderEmails.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\BVRemainderEmails.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\obj\Debug\BVRemainderEmails.dll
+D:\Ravi-consero\Fogbugz Management\FB Plugins\my plugins\BVRemainderEmails\BVRemainderEmails\BVRemainderEmails\obj\Debug\BVRemainderEmails.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\BVRemainderEmails.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\BVRemainderEmails.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogBugz.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Database.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Plugins.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Utilities.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Runtime.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Licensing.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DateTime.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.HtmlParser.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Ionic.Utils.Zip.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\SourceSafe.Interop.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Search.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DiffPatch.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Ferret.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Interop.ADOX.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Interop.ADODB.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Mail.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Util.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\HtmlAgilityPack.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Irony.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogBugz.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogBugz.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Database.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Plugins.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Plugins.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Utilities.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Runtime.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Runtime.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Licensing.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DateTime.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Ionic.Utils.Zip.xml
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Search.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Ferret.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Mail.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Util.pdb
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\obj\Debug\ResolveAssemblyReference.cache
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\obj\Debug\BVRemainderEmails.dll
+D:\Ravi-consero\Fogbugz Management\Plugin Virsions\BazaarVoice\BVRemainderEmails\BV_RM_Virsion_1.0\BVRemainderEmails\obj\Debug\BVRemainderEmails.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\BVRemainderEmails.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\BVRemainderEmails.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogBugz.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Database.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Plugins.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Utilities.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Runtime.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Licensing.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DateTime.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.HtmlParser.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Ionic.Utils.Zip.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\SourceSafe.Interop.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Search.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DiffPatch.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Ferret.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.AppDomainTools.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Interop.ADOX.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Interop.ADODB.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Mail.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Util.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\HtmlAgilityPack.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Irony.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogBugz.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogBugz.xml
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Database.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Plugins.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Plugins.xml
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Utilities.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Runtime.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Licensing.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DateTime.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.HtmlParser.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Ionic.Utils.Zip.xml
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Search.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.DiffPatch.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.Ferret.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\FogCreek.AppDomainTools.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Newtonsoft.Json.Net20.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Mail.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\bin\Debug\Wasabi.Util.pdb
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\obj\Debug\ResolveAssemblyReference.cache
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\obj\Debug\BVRemainderEmails.dll
+D:\Plugin\BV_RM_Virsion_1.0\BV_RM_Virsion_1.0\BVRemainderEmails\obj\Debug\BVRemainderEmails.pdb
